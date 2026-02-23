@@ -20,27 +20,60 @@
 
 ## 🚀 About Me
 
-```python
-class RemoteSensingSpecialist:
-    def __init__(self):
-        self.name = "Clemente III M. Abines"
-        self.role = "Remote Sensing Technologist & GIS Specialist"
-        self.location = "Tacloban City, Leyte, Philippines 🇵🇭"
-        self.education = "BS Geodetic Engineering"
-        self.experience = "4+ years"
-        self.current_work = "DENR R08"
-        
-    def get_expertise(self):
-        return {
-            "geospatial": ["ArcGIS Pro", "QGIS", "Google Earth Engine"],
-            "remote_sensing": ["Satellite Imagery", "UAV/Drone", "LiDAR", "Multispectral"],
-            "machine_learning": ["YOLO11", "Deep Learning", "Automated Detection"],
-            "programming": ["Python", "JavaScript", "R"],
-            "conservation": ["Wildlife Detection", "Biodiversity Monitoring", "Carbon Stock Estimation"]
-        }
-    
-    def current_focus(self):
-        return "Developing AI-powered solutions for environmental conservation 🌍"
+<div align="center">
+
+**Remote Sensing Technologist and GIS Specialist** with **4+ years of experience** in geospatial analysis and proficiency in GIS software. Along with around **200+ hours** of training and certifications. 
+
+Passionate about **deep learning** and **machine learning model development**, with expertise in automating data modeling workflows integrating **Satellite and UAV imageries**.
+
+</div>
+
+### 🎯 What I Do
+
+```yaml
+name: Clemente III M. Abines
+role: Remote Sensing Technologist & GIS Specialist
+location: Tacloban City, Leyte, Philippines 🇵🇭
+education: BS Geodetic Engineering
+experience: 4+ years
+current_work: DENR R08
+
+expertise:
+  geospatial:
+    - ArcGIS Pro
+    - QGIS
+    - Google Earth Engine
+    - Snap
+    - ArcMap
+    - AutoCAD
+  
+  remote_sensing:
+    - Satellite Imagery Processing
+    - UAV/Drone Operations
+    - LiDAR Analysis
+    - Multispectral Imaging
+    - NDVI & Vegetation Indices
+  
+  machine_learning:
+    - YOLO11 Architecture
+    - Deep Learning
+    - Automated Detection Models
+    - Computer Vision
+    - Feature Classification
+  
+  programming:
+    - Python
+    - JavaScript
+    - R
+    - Web Development
+  
+  conservation:
+    - Wildlife Detection
+    - Biodiversity Monitoring
+    - Carbon Stock Estimation
+    - Environmental Management
+
+current_focus: "Developing AI-powered solutions for environmental conservation 🌍"
 ```
 
 ---
